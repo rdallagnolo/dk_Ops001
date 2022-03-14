@@ -192,4 +192,4 @@ st.plotly_chart(fig3)
 st.plotly_chart(fig4)
 
 df2 = df.drop('Date',axis=1)
-st.table(df)
+st.table(df2)
